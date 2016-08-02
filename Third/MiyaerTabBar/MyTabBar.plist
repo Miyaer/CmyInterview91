@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>titleName</key>
+		<string>91助手</string>
+		<key>name</key>
+		<string>首页</string>
+		<key>VCname</key>
+		<string>FirstViewController</string>
+		<key>image_selectName</key>
+		<string>first_select.png</string>
+		<key>imageName</key>
+		<string>first.png</string>
+	</dict>
+	<dict>
+		<key>titleName</key>
+		<string>聊吧</string>
+		<key>name</key>
+		<string>聊吧</string>
+		<key>VCname</key>
+		<string>ChatViewController</string>
+		<key>image_selectName</key>
+		<string>chat_select.png</string>
+		<key>imageName</key>
+		<string>chat.png</string>
+	</dict>
+	<dict>
+		<key>titleName</key>
+		<string>评测</string>
+		<key>name</key>
+		<string>评测</string>
+		<key>VCname</key>
+		<string>EvaViewController</string>
+		<key>image_selectName</key>
+		<string>eva_select.png</string>
+		<key>imageName</key>
+		<string>eva.png</string>
+	</dict>
+	<dict>
+		<key>titleName</key>
+		<string>搜索</string>
+		<key>name</key>
+		<string>搜索</string>
+		<key>VCname</key>
+		<string>SearchViewController</string>
+		<key>image_selectName</key>
+		<string>search_select.png</string>
+		<key>imageName</key>
+		<string>search.png</string>
+	</dict>
+</array>
+</plist>
